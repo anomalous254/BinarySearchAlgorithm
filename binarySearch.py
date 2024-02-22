@@ -1,6 +1,7 @@
 from termcolor import colored
 
 
+# greeting message 
 prompt = f"""
      
 WELCOME TO BINARY SEARCH ALGORITHM
