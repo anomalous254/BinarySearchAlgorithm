@@ -2,4 +2,4 @@
 
 ### Introductin
 
-> Binary Seach algorithm 
+> Binary Seach algorithms 
