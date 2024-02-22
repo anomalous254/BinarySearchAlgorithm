@@ -1,3 +1,5 @@
+// SOEN 305
+
 import java.util.Scanner;
 
 // Main class
